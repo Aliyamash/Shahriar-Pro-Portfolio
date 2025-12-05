@@ -40,7 +40,7 @@ export default function Products ({ products }) {
                      </div>
                    
                         </div>
-                        <div className="my-12 items-center "><Link href={`/product/${card.slug}`} products={card} className="btn-h bg-bgray btn-color text-xs  text-redBody">Create Project!</Link></div>
+                        <div className="my-12 items-center "><Link href={`/products/${card.slug}`} products={card} className="btn-h bg-bgray btn-color text-xs  text-redBody">Create Project!</Link></div>
                     </div>
                  </div>
                    ))}
