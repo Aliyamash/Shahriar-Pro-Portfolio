@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic';
+export const revalidate = false;
 import { getFetch } from "@/utils/fetch";
 import pic1 from "@/public/img/portfolio-one.png";
 import pic2 from "@/public/img/portfolio-two.png";

@@ -1,3 +1,4 @@
+export const dynamic = 'force-dynamic';
 import Blog from "@/components/Blog/Blog";
 import Contact from "@/components/Contact/Contact";
 import Features from "@/components/Features";
